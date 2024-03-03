@@ -1,4 +1,9 @@
+/* import Button from 'react-bootstrap/Button'; */
 
+card-img-top {
+    margin-top: 325px,500px,325px,500px;
+    border-color: blue;
+}
 /* 
 
     You can write your own styles here...
