@@ -1,5 +1,6 @@
 /* import React from "react"; */
 import React from "react";
+//no funciona en esta folder
 
 
 /* function Myfooter (){
